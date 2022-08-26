@@ -1,9 +1,24 @@
-#Partícula{
+div {
     height: 30px;
     width: 30px;
     border-radius: 50%;
-    background-color: red;
     position: absolute;
+
+}
+#Partícula{
+    background-color: red;
     left: 10vw;
-    bottom: 70vh;
+    bottom: 60vh;
+}
+
+#Partícula2{
+    background-color: green;
+    left: 5vw;
+    bottom: 60vh;
+}
+
+#Partícula3{
+    background-color: yellow;
+    left: 15vw;
+    bottom: 60vh;
 }
